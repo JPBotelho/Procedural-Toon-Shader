@@ -18,3 +18,6 @@ and writing to a texture of size (W, 1).
 The texture is then fed into the shader that samples the texture for its final lighting value (0-1). 
 
 ![Extrusion](Example.png "Extrusion")
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
